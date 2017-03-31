@@ -1,8 +1,10 @@
 #python specific
 *.pyc
+__pycache__
 
 #virtualenv
 env/
+audio/
 
 ## generic files to ignore
 *~
